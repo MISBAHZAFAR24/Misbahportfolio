@@ -99,7 +99,7 @@ class ResumePdfService {
 
     // Links line
     g.drawString(
-      'github.com/MISBAH-ZAFAR24   •   linkedin.com/in/misbah   •   leetcode.com/u/MISBAHZAFAR24',
+      'github.com/MISBAH-ZAFAR24   •   https://www.linkedin.com/in/misbah-zafar-5a3985323?utm_source=share_via&utm_content=profile&utm_medium=member_android  •   leetcode.com/u/MISBAHZAFAR24',
       smallFont,
       brush: PdfSolidBrush(accentColor),
       bounds: Rect.fromLTWH(0, 92, pageWidth, 14),
@@ -137,7 +137,7 @@ class ResumePdfService {
     final List<Map<String, String>> education = [
       {
         'institution': 'Jamia Hamdard — B.Tech Computer Science',
-        'detail': '2022 – 2026  |  New Delhi  |  Pursuing',
+        'detail': '2023 – 2027 |  New Delhi  |  Pursuing',
       },
       {
         'institution': 'Victoria Public SR Sec School — 12th Class (CBSE)',
@@ -297,10 +297,10 @@ class ResumePdfService {
     );
 
     final List<Map<String, String>> certs = [
-      {'name': 'Computer Training Certificate', 'year': '2025'},
+      {'name': 'Computer Training Certificate', 'year': '2023'},
       {
         'name': 'Hacksphere by Copy Code — Hackathon Certificate',
-        'year': '2025',
+        'year': '2024',
       },
       {
         'name': 'Snapchat AR Lenses — Augmented Reality Certificate',
