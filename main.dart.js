@@ -31786,13 +31786,13 @@ a8.xK(new A.A(0,108,p,111),new A.dI(d))
 a8.qj("MISBAH ZAFAR",a1,new A.A(0,18,p,53),new A.dI(a0),A.G9(B.fC,B.cd))
 a8.qj("Flutter Developer  |  AI/ML Enthusiast  |  Software Engineer",a2,new A.A(0,52,p,72),new A.dI(A.pZ(200,195,255)),A.G9(B.fC,B.cd))
 a8.qj("+91 9990809852   \u2022   zafarhassan3748@gmail.com   \u2022   New Delhi, India",a5,new A.A(0,76,p,92),new A.dI(A.pZ(220,220,255)),A.G9(B.fC,B.cd))
-a8.qj("github.com/MISBAH-ZAFAR24   \u2022   linkedin.com/in/misbah   \u2022   leetcode.com/u/MISBAHZAFAR24",a5,new A.A(0,92,p,106),new A.dI(d),A.G9(B.fC,B.cd))
+a8.qj("github.com/MISBAH-ZAFAR24   \u2022   https://www.linkedin.com/in/misbah-zafar-5a3985323?utm_source=share_via&utm_content=profile&utm_medium=member_android  \u2022   leetcode.com/u/MISBAHZAFAR24",a5,new A.A(0,92,p,106),new A.dI(d),A.G9(B.fC,B.cd))
 b1=A.yR(a8,"PROFESSIONAL SUMMARY",a3,e,a,a9,122)
 c6=10+(a9-10)
 a8.qj("Passionate Flutter Developer and AI/ML Enthusiast pursuing B.Tech in Computer Science at Jamia Hamdard, New Delhi. Experienced in building cross-platform mobile applications with hands-on internship experience at Microsoft AI Azure. Proficient in Java, Python, Flutter, and web technologies with a strong foundation in Data Structures & Algorithms and Object-Oriented Programming.",a4,new A.A(10,b1,c6,b1+40),new A.dI(c),A.G9(B.Cj,B.cd))
 b1=A.yR(a8,"EDUCATION",a3,e,a,a9,b1+42)
 g=t.N
-b2=[A.a7(["institution","Jamia Hamdard \u2014 B.Tech Computer Science","detail","2022 \u2013 2026  |  New Delhi  |  Pursuing"],g,g),A.a7(["institution","Victoria Public SR Sec School \u2014 12th Class (CBSE)","detail","2021 \u2013 2022  |  76.8%"],g,g),A.a7(["institution","Victoria Public SR Sec School \u2014 10th Class (CBSE)","detail","2019 \u2013 2020  |  70%"],g,g)]
+b2=[A.a7(["institution","Jamia Hamdard \u2014 B.Tech Computer Science","detail","2023 \u2013 2027 |  New Delhi  |  Pursuing"],g,g),A.a7(["institution","Victoria Public SR Sec School \u2014 12th Class (CBSE)","detail","2021 \u2013 2022  |  76.8%"],g,g),A.a7(["institution","Victoria Public SR Sec School \u2014 10th Class (CBSE)","detail","2019 \u2013 2020  |  70%"],g,g)]
 for(b3=0;b3<3;++b3){b4=b2[b3]
 f=b4.i(0,"institution")
 f.toString
@@ -31822,7 +31822,7 @@ c0=b1+14
 a8.jP("\u25b8  "+f,a6,new A.A(10,b1,c6,c0),new A.dI(c))
 for(f=b9.i(0,"desc").split("\n"),b5=f.length,b1=c0,c1=0;c1<b5;++c1){a8.jP(f[c1],a4,new A.A(10,b1,c6,b1+14),new A.dI(b))
 b1+=13}b1+=6}b1=A.yR(a8,"CERTIFICATIONS",a3,e,a,a9,b1)
-c2=[A.a7(["name","Computer Training Certificate","year","2025"],g,g),A.a7(["name","Hacksphere by Copy Code \u2014 Hackathon Certificate","year","2025"],g,g),A.a7(["name","Snapchat AR Lenses \u2014 Augmented Reality Certificate","year","2025"],g,g)]
+c2=[A.a7(["name","Computer Training Certificate","year","2023"],g,g),A.a7(["name","Hacksphere by Copy Code \u2014 Hackathon Certificate","year","2024"],g,g),A.a7(["name","Snapchat AR Lenses \u2014 Augmented Reality Certificate","year","2025"],g,g)]
 for(b3=0;b3<3;++b3){c3=c2[b3]
 g=c3.i(0,"name")
 g.toString
