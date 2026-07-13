@@ -1,4 +1,4 @@
-name: Deploy to Firebase Hosting
+name: Deploy to GitHub Pages
 on:
   push:
     branches:
@@ -18,12 +18,10 @@ jobs:
         run: flutter pub get
         
       - name: Build Web
-        run: flutter build web
+        run: flutter build web --base-href "/Misbahportfolio/"
         
-      - name: Deploy to Firebase
-        uses: FirebaseExtended/action-hosting-deploy@v0
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MISBAHPORTFOLIO_4D820 }}'
-          channelId: live
-          projectId: misbahportfolio-4d820
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build/web
