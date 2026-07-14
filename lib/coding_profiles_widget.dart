@@ -18,7 +18,7 @@ class CodingProfilesWidget extends StatelessWidget {
     {
       'name': 'GitHub',
       'handle': 'MISBAH-ZAFAR24',
-      'url': 'https://github.com/MISBAHZAFAR24',
+      'url': 'https://github.com/MISBAH-ZAFAR24',
       'color': 0xFF1A1A2E,
       'bg': 0xFFF0F0F8,
       'icon': Icons.merge_type_rounded,
@@ -26,7 +26,7 @@ class CodingProfilesWidget extends StatelessWidget {
     },
     {
       'name': 'LinkedIn',
-      'handle': 'misbah',
+      'handle': 'misbah-zafar-5a3985323',
       'url': 'https://www.linkedin.com/in/misbah-zafar-5a3985323?utm_source=share_via&utm_content=profile&utm_medium=member_android',
       'color': 0xFF0A66C2,
       'bg': 0xFFE8F0FB,
